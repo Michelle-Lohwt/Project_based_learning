@@ -6,4 +6,4 @@ People always say that the best learning is to play it.
 - Python
 
 ### C++
-- [Student Information System](https://github.com/Michelle-alt/Project_based_learning/tree/Student-Information-System)
+- [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
