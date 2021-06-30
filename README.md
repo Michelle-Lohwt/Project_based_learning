@@ -5,3 +5,4 @@ People always say that the best learning is to play it.
 - [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
 - Algorithms (in progress)
 - [SSH-Key-for-Windows](https://github.com/Michelle-alt/SSH-Key-for-Windows) (in progress)
+- [MLH INIT 2022 Hackathon](https://github.com/Michelle-Lohwt/MLH-INIT-Hackathon) (in progress)
