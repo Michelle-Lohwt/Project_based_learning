@@ -2,8 +2,8 @@
 People always say that the best learning is to play it.
 
 ## Table of contents
-- Personal Projects
-- Platform
+- [Personal Projects](https://github.com/Michelle-Lohwt/Project_based_learning/blob/master/README.md#personal-projects)
+- [Platform](https://github.com/Michelle-Lohwt/Project_based_learning/blob/master/README.md#platform-projects)
 
 ### Personal Projects
 - [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
