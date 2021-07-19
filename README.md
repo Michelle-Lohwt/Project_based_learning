@@ -6,3 +6,4 @@ People always say that the best learning is to play it.
 - Algorithms (in progress)
 - [SSH-Key-for-Windows](https://github.com/Michelle-alt/SSH-Key-for-Windows) (in progress)
 - [MLH INIT 2022 Hackathon](https://github.com/MLH-INIT-2022-Hackathon) (in progress)
+- [Data Science](https://github.com/Michelle-Lohwt/Learn-Data-Science) (in progress)
