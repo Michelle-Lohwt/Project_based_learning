@@ -1,9 +1,15 @@
 # Project_based_learning
-People always say that the best learning is to play it.
+Author: Michelle Loh<br>
+> People always say that the best learning is to play it. <br>
+> This repository records all my personal projects, platform projets and projects contribution in my GitHub account.
 
+---
 ## Table of contents
 - [Personal Projects](https://github.com/Michelle-Lohwt/Project_based_learning/blob/master/README.md#personal-projects)
 - [Platform](https://github.com/Michelle-Lohwt/Project_based_learning/blob/master/README.md#platform-projects)
+- [Contributing](https://github.com/Michelle-Lohwt/Project_based_learning/blob/master/README.md#contributing)
+
+---
 
 ### Personal Projects
 - [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
@@ -14,3 +20,9 @@ People always say that the best learning is to play it.
 - [Data Science](https://github.com/Michelle-Lohwt/Learn-Data-Science) (in progress)
 - [Ruby on Rails](https://github.com/Michelle-Lohwt/Learn-Ruby-on-Rails) (in progress)
 - [MLH INIT 2022 Hackathon](https://github.com/MLH-INIT-2022-Hackathon) (in progress)
+- [30 Days ML Kaggle Challenge](https://github.com/Michelle-Lohwt/30-Days-ML-Kaggle-Challenge) (in progress)
+
+### Contributing
+- [Coden MLH Events](https://github.com/CodenCommunity/MLH-events)
+- [Coden Community Website](https://github.com/CodenCommunity/Coden.github.io) (in progress)
+- [Coden JobBuddy](https://github.com/CodenCommunity/JobBuddy) (in progress)
