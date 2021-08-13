@@ -13,7 +13,7 @@ Author: Michelle Loh<br>
 
 ### Personal Projects
 - [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
-- Algorithms (in progress)
+- [Algorithms](https://github.com/Michelle-Lohwt/Algorithms) (in progress)
 - [SSH-Key-for-Windows](https://github.com/Michelle-alt/SSH-Key-for-Windows) (in progress)
 
 ### Platform Projects
