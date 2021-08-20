@@ -15,6 +15,7 @@ Author: Michelle Loh<br>
 - [Student Information System](https://github.com/Michelle-alt/Student-Information-System/tree/master)
 - [Algorithms](https://github.com/Michelle-Lohwt/Algorithms) (in progress)
 - [SSH-Key-for-Windows](https://github.com/Michelle-alt/SSH-Key-for-Windows) (in progress)
+- [Flappy Bird with Unity](https://github.com/Michelle-Lohwt/Flappy-Bird-Unity)
 
 ### Platform Projects
 - [Data Science](https://github.com/Michelle-Lohwt/Learn-Data-Science) (in progress)
