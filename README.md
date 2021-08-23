@@ -21,7 +21,7 @@ Author: Michelle Loh<br>
 - [Data Science](https://github.com/Michelle-Lohwt/Learn-Data-Science) (in progress)
 - [Ruby on Rails](https://github.com/Michelle-Lohwt/Learn-Ruby-on-Rails) (in progress)
 - [MLH INIT 2022 Hackathon](https://github.com/MLH-INIT-2022-Hackathon) (in progress)
-- [30 Days ML Kaggle Challenge](https://github.com/Michelle-Lohwt/30-Days-ML-Kaggle-Challenge) (in progress)
+- [30 Days ML Kaggle Challenge](https://github.com/Michelle-Lohwt/30-Days-ML-Kaggle-Challenge)
 
 ### Contributing
 - [Coden MLH Events](https://github.com/CodenCommunity/MLH-events)
