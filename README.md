@@ -16,6 +16,7 @@ Author: Michelle Loh<br>
 - [Algorithms](https://github.com/Michelle-Lohwt/Algorithms) (in progress)
 - [SSH-Key-for-Windows](https://github.com/Michelle-alt/SSH-Key-for-Windows) (in progress)
 - [Flappy Bird with Unity](https://github.com/Michelle-Lohwt/Flappy-Bird-Unity)
+- [Install WSL2, asdf (ruby, nodejs, yarn)](https://github.com/Michelle-Lohwt/asdf-install-wsl2)
 
 ### Platform Projects
 - [Data Science](https://github.com/Michelle-Lohwt/Learn-Data-Science) (in progress)
