@@ -19,6 +19,7 @@ Author: Michelle Loh<br>
 - [Flappy Bird with Unity](https://github.com/Michelle-Lohwt/Flappy-Bird-Unity)
 - [Install WSL2, asdf (ruby, nodejs, yarn)](https://github.com/Michelle-Lohwt/asdf-install-wsl2)
 - [Convert PDF to Text Web Application with HTML, CSS, PHP, JAVA, Apache, Docker and Linux](https://github.com/Michelle-Lohwt/convert-pdf-text-web-app)
+- [Data Science - Fetal Cardiotocography Analysis](https://github.com/Michelle-Lohwt/fetal-cardiotocography-analysis)
 
 ### Platform Projects
 - [Ruby on Rails](https://github.com/Michelle-Lohwt/Learn-Ruby-on-Rails) (in progress)
