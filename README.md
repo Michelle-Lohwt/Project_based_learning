@@ -21,6 +21,7 @@ Author: Michelle Loh<br>
 - [Convert PDF to Text Web Application with HTML, CSS, PHP, JAVA, Apache, Docker and Linux](https://github.com/Michelle-Lohwt/convert-pdf-text-web-app)
 - [Computational Intelligence - Research Paper Reviews on Mobile Robot Path Planning](https://github.com/Michelle-Lohwt/mobile-robot-path-planning)
 - [Data Science - Fetal Cardiotocography Analysis](https://github.com/Michelle-Lohwt/fetal-cardiotocography-analysis)
+- [Computer Vision and Automation Testing - QR code and Bar code Detector](https://github.com/Michelle-Lohwt/qr_code-bar_code-detector/tree/main)
 
 ### Platform Projects
 - [Ruby on Rails](https://github.com/Michelle-Lohwt/Learn-Ruby-on-Rails) (in progress)
