@@ -31,8 +31,3 @@ Author: Michelle Loh<br>
 ### My Articles
 - [Install asdf (ruby, nodejs and yarn) in WSL2](https://dev.to/michellelwt/install-asdf-ruby-nodejs-and-yarn-in-wsl2-207o)
 - [Install wsl2(GUI), asdf, dart, flutter, and android studio](https://dev.to/michellelwt/install-wsl2-gui-asdf-flutter-and-android-studio-346e)
-
-### Contributing
-- [Coden MLH Events](https://github.com/CodenCommunity/MLH-events)
-- [Coden Community Website](https://github.com/CodenCommunity/Coden.github.io) (in progress)
-- [Coden JobBuddy](https://github.com/CodenCommunity/JobBuddy) (in progress)
